@@ -2151,7 +2151,7 @@ export default function DokumenInternalModule({
                     className="text-[9.5px] font-bold uppercase tracking-wider"
                     style={{ color: identitas.warnaAksen || katAktif.warnaAksen }}
                   >
-                    Metadata Pengendalian Dokumen
+                    Dokumen Internal
                   </p>
                   <div className="grid grid-cols-[100px_1fr] gap-y-1 text-[10px]">
                     <span className="text-slate-500">No. Dokumen</span>

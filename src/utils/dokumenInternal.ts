@@ -526,7 +526,7 @@ export const SKEMA_DOKUMEN_INTERNAL: SkemaJenisDokumen[] = [
     deskripsi: 'Pembelian barang dan jasa di luar kebutuhan alkes (contoh: pembelian komputer, pembayaran hosting website, pembayaran jasa Event Organizer, dll.).',
     wajibTraceabilityAlkes: false,
     tampilkanNilaiFinansial: true,
-    labelPihakTerkait: 'Prinsipal / Vendor / Penyedia Jasa',
+    labelPihakTerkait: 'Requested by:',
     fields: [
       {
         key: 'syaratPembayaran',
